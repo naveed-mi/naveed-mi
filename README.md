@@ -1,17 +1,57 @@
-Hi, I'm Naveed, a skilled DevOps Engineer with a passion for optimizing infrastructure and enhancing deployment workflows.
+# 👋 Hey, I'm Naveed
 
-I specialize in building scalable, secure, and high-performing systems using modern DevOps practices. With experience working across diverse cloud platforms and automation tools, I thrive in dynamic, collaborative environments and am committed to improving efficiency at every stage of the software development lifecycle.
+### 💻 DevOps & SRE Engineer | Cloud Infrastructure | Automation Enthusiast
 
-Key Skills & Expertise:
-Cloud Platforms: AWS deploying and managing infrastructure at scale.
-CI/CD & Automation: Designing and implementing CI/CD pipelines using Jenkins, GitHub Actions, GitLab CI, and CircleCI to ensure fast, reliable releases.
-Infrastructure as Code (IaC): Expertise in Terraform, Ansible, and CloudFormation to automate infrastructure provisioning and management.
-Containerization & Orchestration: Strong hands-on experience with Docker, Kubernetes, and Helm for containerized applications and microservices.
-Monitoring & Logging: Implementing robust monitoring and logging systems with Prometheus, Grafana, ELK Stack, and Datadog for proactive issue resolution.
-What Drives Me:
-I am passionate about automation and continuous improvement, constantly looking for ways to reduce friction between development and operations.
-I prioritize collaboration with cross-functional teams to deliver secure, high-availability solutions in cloud-native environments.
-With a global mindset, I stay up to date with the latest DevOps trends and tools, ensuring my solutions are not only efficient but also future-proof.
-Currently open to new opportunities across Europe, where I can contribute to building and maintaining top-tier infrastructure while embracing best practices in DevOps.
+I’m a DevOps/Site Reliability Engineer with 6+ years of experience building scalable cloud platforms, automating infrastructure, and making systems resilient, observable, and cost-effective.
 
-🚀 Let’s connect! Whether you're looking to optimize your infrastructure, scale applications, or improve your DevOps workflows, I’d love to contribute my skills and expertise to your team.
+Currently focused on simplifying complex infrastructure with Terraform, Kubernetes, and AWS — and enabling developers with reliable CI/CD pipelines.
+
+---
+
+## 🔧 Core Skills
+
+- **Cloud Platforms**: AWS (EKS, ECS, EC2, S3, DynamoDB, Lambda, EMR)
+- **Containers & Orchestration**: Docker, Kubernetes, Helm
+- **Infrastructure as Code**: Terraform, Ansible
+- **CI/CD**: GitLab CI, GitHub Actions, Jenkins
+- **Monitoring & Logging**: Prometheus, Grafana, ELK Stack, Loki
+- **Languages**: Bash, Python, Go (basics)
+- **Messaging & Data**: Kafka, SQS, RDS, Apache Spark
+
+---
+
+## 📌 Highlights
+
+- 🔄 Designed auto-scaling EKS clusters and optimized cost with spot instances
+- 🛠️ Built reusable Terraform modules for multi-environment infrastructure
+- 📈 Set up monitoring stacks with Prometheus + Grafana and ELK for logs
+- 🚀 Developed CI/CD pipelines with approvals, rollback, and blue-green deployments
+
+---
+
+## 🧩 Selected Projects
+
+- [`terraform-eks-blueprint`](https://github.com/yourusername/terraform-eks-blueprint) – Scalable, production-ready EKS setup with ALB, IAM, and autoscaling
+- [`k8s-observability-stack`](https://github.com/yourusername/k8s-observability-stack) – Monitoring setup using Prometheus, Grafana, and Loki in Kubernetes
+- [`ci-pipeline-templates`](https://github.com/yourusername/ci-pipeline-templates) – Templates for GitLab and GitHub CI/CD pipelines for microservices
+
+---
+
+## 🛰️ Currently Exploring
+
+- Apache Kafka at scale
+- AWS cost optimization techniques
+- GitOps workflows using ArgoCD and Flux
+- Observability improvements with OpenTelemetry
+
+---
+
+## 📫 Reach Me
+
+- [LinkedIn](https://linkedin.com/in/your-profile)
+- [Email](mailto:your.email@example.com)
+
+---
+
+> "Automate everything, observe everything, break nothing."
+
